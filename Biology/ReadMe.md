@@ -64,3 +64,75 @@ Goemtric isomers, have similar placement of their covalent bonds but differ in h
 Enantiomers are molecules that share the same chemical structure and chemical bonds but differ in three-dimensional placement of atoms.
 
 Functional groups are groups of atoms that occur within molecules and confer specific chemical properties to those molecules. We find them along the "carbon backbone" of macromolecules.  
+# Chapter 5 Structure and Function of Plasma Membranes
+
+Plasma membrane and the cell membrane has many functions. But, the most basic one is to define the cell's border and keep the cell functional. The membrane is permeable meaning that it can allow materials to freely enter or leave the cell. 
+
+The fluid mosaic model, has changed over time. But, it is the best accounts for plasma membrane and function as we understand them in the modern world.
+
+The fluid mosaic model describes the plasma membrane structure as mosaic of components-including phospholipids, cholesterol, proteins, and carbohydrates- that give the membrane a fluid character.
+
+A cell's plasma membrane defines the cells and outlines it's border. Determining the nature of it's interaction with it's enviornment.
+
+A plasma membrane's principal components are lipids (phospholipids and cholesterol), protein, and carbohydrates attached to some of the lipids and proteins. 
+
+Phospholipid is a molecule consisting of glycerol, two fatty acids, and a phosphate-linked head group. 
+
+Phospholipids are the main fabric of a membrane and are amiphiphillic.
+
+The hydrophilic area of phospholipids are in contact with the aqeuous fluid both inside and outside the cell.
+
+The hydrophobic phospholipids tend to be non-polar. They interact with non-polar molecules in chemical reactions, but generally do not interact with polar molecules. 
+
+Polar molecules are molecules in which the electrons between the covalenly bonded atoms are not even.
+
+When placed in water, hydrophobic molecules will tend to cluster or group into a ball. However, the hydrophillic regions form hydrogen bonds with water and other polar molecules on both the cell's exterior and interior.
+
+The cell's interior and exterior are hydrophillic. In contrast the membrane's interor is hydrophobic and will not interact with water. Overall, phospholipids form an excellent two-layer cell membrnae that separates the fluids within the cell from the fluid outside the cell.
+
+Integral protein or integrins are proteins that are permanently embedded within the plasma membrane. They have functions such as channeling or transporting molecules across the membrane. 
+
+Peripheral proteins are on the membranes' exterior and interior surfaces, attached either to integral proteins or to phospholipids. 
+
+Carbohydrates are the third major plasma membrane component. They are always found on the cells' exterior surface and are bound either to proteins or lipids.
+
+Carbohydrates along with proteins form specialized sites on the surface of the cells that allow the cells to recognize foreign cells/tissues from the body cells. 
+
+Passive transport is a naturally occuring phenomenon and does not require the cell to exert any energy to accomplish the movement of cells. 
+
+Diffusion is a passive process of transport. Diffusion occurs when a single substance moves from a high concentration to a low concentration area until the concentration is equal across a space. 
+
+The greater the difference between the level of concentration, the faster the diffusion rate will be. The closer the distribution of the material is to the equalibrium, the slower the diffusion rate will be. 
+The heavier the molecules being diffused are the slower the diffusion process will be. Heavier molecules move slower. 
+Temperature: The higher the temperature the energy increases therefore the speed of the process does as well. Alternatively, if the temperature was higher then the diffusion processes would become slower. 
+Solvent Density: As the denisty of a solvent increases, the diffusion rate decreases. 
+
+facilitated transport is one way of moving materials without expending cellular energy. This process happens through passive diffusion ( from high concentration to low concentration area).
+
+Osmosis transports only water across a membrane and membrane limits the solutes' diffusion in the water. 
+
+Tonicity is often correlated with the solution's osmolarity or the solutions total solute concentration. Tonicity describes the capabilities of a solution to modify the volumeof cells by altering their water content. 
+
+Hypotonic solution is a solution that has a lower concentration of solute compared to cells.
+Hypertonic solution is a solution with a greater concentration of solute compared to cells.
+Isotonic solution has the same concentration of solute compared to cells. 
+
+Plasmolysis is the process of contracting or shrinkage of a protoplasm in a plant cell caused byt a loss of water in the cell. Plasmolysis is a result of osmosis. 
+
+Active Transport mechanisms require the cell's energy to move subtances into a cell against the concentration gradient. 
+
+Primary active transport uses ATP to transport all species of solute across a membrane against their concentration gradient.
+Secondary active transport moves the substance across the membrane due to ATP, but, not a direct cause of ATP usage. In a sense, secondary active transport is a side effect. 
+
+Transporters(proteins)
+Uniporter carries one specific ion/molecule.
+Symporter carries two different ion/molecule.
+Antiporter carries two different ion/molecule, but in different directions.
+
+Endocytosis is an active transport that moves partciles as large as molecules. The cellular process occurs in which substances are brought into the cell and is surrounded by the plasma membrane. 
+
+Phagocytosis is a process which a cell takes in a large partcile, such as other cells or relatively large partciles. E.g. When microorganisms invade the human body, a type of white blood cell, a neutrophil, will remove the invaders through this process, surrounding and engulfing the microorganism, which the neutrophil then destroys. 
+
+Pinocytosis occurs when small partciles suspended in extracellular fluid are brought into the cell through an invagination of the cell membrane, suspending the particles within a small vesicle inside the cell. 
+
+Exocytosis is the process of moving materials f rom within a cell to the extgerior of the cell.
