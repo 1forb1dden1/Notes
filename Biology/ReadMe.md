@@ -64,6 +64,77 @@ Geometric isomers, have similar placement of their covalent bonds but differ in 
 Enantiomers are molecules that share the same chemical structure and chemical bonds but differ in the three-dimensional placement of atoms.
 
 Functional groups are groups of atoms that occur within molecules and confer specific chemical properties to those molecules. We find them along the "carbon backbone" of macromolecules. 
+# Chapter 3 Biological Macromolecules
+Biological macromolecules are large molecules necessary for life and are built from smaller molecules<br>
+The four major macromolecule classes are Carbohydrates, lipids, proteins, and nucleic acids.<br>
+Dehydration Synthesis<br>
+-Most macromolecules are made up of single subunits or building blocks called monomers.<br>
+-The monomers combined with each other using covalent bonds to form larger molecules known as polymers.<br>
+Hydrolysis<br>
+-Polymers break down into monomers during hydrolysis. A reaction occurs when a water molecule is inserted across the bond.<br>
+-This process is sped up by some specific enzymes.<br>
+Carbohydrates<br>
+-The ratio of carbon to hydrogen to oxygen in carbohydrates is (1:2:1).<br>
+-classified into three subtypes: monosaccharide, disaccharide, and polysaccharide.<br>
+Monosaccharide<br>
+-Simple sugars, the most common being glucose.<br>
+It-Important in humans for cellular respiration to form ATP.<br>
+-Plants synthesize glucose ( a monosaccharide ) using carbon dioxide and water to create energy.<br>
+-Galactose ( part of lactose ) and fructose ( found in sucrose in fruits) are also monosaccharides.<br>
+Disaccharides <br>
+-Two monosaccharides that undergo dehydration reaction.<br>
+-A covalent bond forms between a carbohydrate molecule and another molecule called a glycosidic bond.<br>
+-Common disaccharides include lactose, maltose, and sucrose.<br>
+Polysaccharides <br>
+-A long chain of monosaccharides linked by glycosidic bonds is a polysaccharide.<br>
+-Common examples are starch, cellulose, or glycogen.
+<br>
+Lipids<br>
+-Lipids are stored for long-term use in the form of fats.<br>
+-Provide insulation from the environment for plants and animals.<br>
+Fats and oils<br>
+-A fat molecule consists of two main components-glycerol and fatty acids.<br>
+-Trans fat, Saturated fat, Unsaturated Fat, Monounsaturated fat<br>
+-Contribute to LDL cholesterol levels.<br>
+Omega Fatty Acids<br>
+-These are essential fatty acids that the human body requires but cannot synthesize.<br>
+-These fats are polyunsaturated fatty acids.<br>
+Waxes<br>
+-Wax covers aquatic birds' feathers and some plants' leaf surfaces.
+-This wax help to prevent water from sticking to the surface due to its hydrophobic nature.<br>
+Phospholipids<br>
+-A major plasma membrane constituent that composes cells' outermost layer.
+-Consist of a hydrophilic head ( glycerol + phosphate ) and two hydrophobic tails ( saturated + unsaturated fatty acid ).
+Steroids<br>
+-They are grouped with lipids due to their hydrophobic and insoluble nature.<br>
+-Have four linked carbon rings<br>
+Proteins<br>
+-The most abundant organic molecule in the living systems.<br>
+-Enzymes, Hormones ( consist of small proteins or steroids ).<br>
+-Changes in temperature, pH, and exposure to different chemicals can lead proteins to a loss of function or denaturation.<br>
+Amino Acids <br>
+-monomers that compose proteins. Each amino acid has a fundamental structure, which consists of a central carbon atom, or the alpha(a) carbon.
+-Amino acids such as valine, methionine, and alanine are nonpolar or hydrophobic. <br>
+-Serine, threonine, and cysteine are polar and have hydrophilic side chains.<br>
+-Peptide bonds join two amino acids together. The bond is formed through dehydration reaction as one amino acid's carboxyl group and the incoming amino acid's amino group combine.<br>
+Protein Structures<br>
+Primary Structure<br>
+-Amino acids' unique sequence in a polypeptide chain is its primary structure. <br>
+-Sequence of a chain of amino acids<br>
+Secondary Protein Structure<br>
+-hydrogen bonding of the peptide backbone causes the amino acids to fold into a repeating pattern<br>
+Tertiary Protein Structure<br>
+Three-dimensional folding pattern of a protein due to side chain interactions<br>
+Quaternary Protein Structure<br>
+-Protein consists of more than one amino acid chain.<br>
+Nucleic Acids<br>
+-They hold the genetic blueprint and carry instructions for its functioning.<br>
+DNA & RNA <br>
+-Deoxyribonucleic acids(DNA) and ribonucleic acid(RNA).<br>
+-DNA is the genetic material in all living organisms, ranging from single-celled bacteria to multicellular mammals.<br>
+-The RNA is involved with protein synthesis.<br>
+-DNA & RNA is composed of monomers that are known as nucleotides.<br>
+-Each nucleotide consists of four possible nitrogenous bases: adenine (A), guanine (G) cytosine (C), and thymine (T).<br>
 # Chapter 4 Cell Structure
 A cell is a small unit of living things. Whether composed of one cell or many, we refer to them as organisms. Thus, cells are the building blocks of all organisms.
 <br>
